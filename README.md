@@ -83,6 +83,9 @@ PS C:\Users\HP\Desktop\IT23228108\tests> npx playwright test --workers=1
 
 
 📄 View Test Report
+
+
+
     npx playwright show-report
 
 
@@ -99,5 +102,5 @@ PS C:\Users\HP\Desktop\IT23228108\tests> npx playwright test --workers=1
 
 
 <img width="1019" height="944" alt="Screenshot 2026-02-01 191445" src="https://github.com/user-attachments/assets/0ad94dc2-0abd-42c6-8513-eb6d0afa8313" />
-![Uploading Screenshot 2026-02-01 191445.png…]()
+
 
