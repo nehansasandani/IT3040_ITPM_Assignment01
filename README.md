@@ -64,6 +64,10 @@ Open Terminal inside the folder
 
 Run the following commands:
 
+
+
+
+
    npx playwright install
 
    
