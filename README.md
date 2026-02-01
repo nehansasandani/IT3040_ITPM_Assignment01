@@ -64,8 +64,10 @@ Open Terminal inside the folder
 
 Run the following commands:
 
-npx playwright install
-npx playwright test --workers=1
+   npx playwright install
+
+   
+   npx playwright test --workers=1
 
 
 
