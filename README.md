@@ -18,12 +18,15 @@ The project includes:
 1. Open the project folder
 2. Open terminal inside the folder
 3. Run:
-   npm install
+4. npx playwright install
+npx playwright test --workers=1
+
 
 ## How to Run Tests
 Run the following commands:
 npx playwright install
 npx playwright test --workers=1
+
 
 To view the report:
 npx playwright show-report
