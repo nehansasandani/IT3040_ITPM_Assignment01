@@ -1,4 +1,4 @@
-                                                                                        🎭 Playwright Automation Testing
+🎭 Playwright Automation Testing
 Singlish → Sinhala Translator
 
 Student ID: IT23228108
@@ -121,7 +121,5 @@ Negative test correctly detected incorrect behavior
 
 After running tests, open the report using:
 
-npx playwright show-report
 
-![Uploading Screenshot 2026-02-01 191445.png…]()
 
